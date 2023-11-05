@@ -1,0 +1,14 @@
+C:\Users\SAN\Desktop\Quiz san\QuizSan\QuizSan\bin\Debug\net7.0\QuizSan.exe
+C:\Users\SAN\Desktop\Quiz san\QuizSan\QuizSan\bin\Debug\net7.0\QuizSan.deps.json
+C:\Users\SAN\Desktop\Quiz san\QuizSan\QuizSan\bin\Debug\net7.0\QuizSan.runtimeconfig.json
+C:\Users\SAN\Desktop\Quiz san\QuizSan\QuizSan\bin\Debug\net7.0\QuizSan.dll
+C:\Users\SAN\Desktop\Quiz san\QuizSan\QuizSan\bin\Debug\net7.0\QuizSan.pdb
+C:\Users\SAN\Desktop\Quiz san\QuizSan\QuizSan\obj\Debug\net7.0\QuizSan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAN\Desktop\Quiz san\QuizSan\QuizSan\obj\Debug\net7.0\QuizSan.AssemblyInfoInputs.cache
+C:\Users\SAN\Desktop\Quiz san\QuizSan\QuizSan\obj\Debug\net7.0\QuizSan.AssemblyInfo.cs
+C:\Users\SAN\Desktop\Quiz san\QuizSan\QuizSan\obj\Debug\net7.0\QuizSan.csproj.CoreCompileInputs.cache
+C:\Users\SAN\Desktop\Quiz san\QuizSan\QuizSan\obj\Debug\net7.0\QuizSan.dll
+C:\Users\SAN\Desktop\Quiz san\QuizSan\QuizSan\obj\Debug\net7.0\refint\QuizSan.dll
+C:\Users\SAN\Desktop\Quiz san\QuizSan\QuizSan\obj\Debug\net7.0\QuizSan.pdb
+C:\Users\SAN\Desktop\Quiz san\QuizSan\QuizSan\obj\Debug\net7.0\QuizSan.genruntimeconfig.cache
+C:\Users\SAN\Desktop\Quiz san\QuizSan\QuizSan\obj\Debug\net7.0\ref\QuizSan.dll
